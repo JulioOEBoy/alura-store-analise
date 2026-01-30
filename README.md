@@ -14,4 +14,4 @@ Ao longo do projeto, busquei responder perguntas como: qual é o faturamento tot
 │
 ├── 📓 alura_store.ipynb        
 ├── 📄 README.md               
-└── 📁 dados    
+└── 📁 base-de-dados-challenge-1
